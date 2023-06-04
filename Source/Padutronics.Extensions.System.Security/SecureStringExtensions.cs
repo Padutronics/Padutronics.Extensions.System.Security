@@ -1,4 +1,3 @@
-using System;
 using System.Runtime.InteropServices;
 using System.Security;
 
@@ -8,7 +7,7 @@ public static class SecureStringExtensions
 {
     public static string ToUnsecureString(this SecureString @this)
     {
-        IntPtr pointer = IntPtr.Zero;
+        nint pointer = nint.Zero;
 
         try
         {
