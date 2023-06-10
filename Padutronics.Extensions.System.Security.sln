@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{791E9744-3D72-4CE8-B7D7-4028875B1068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padutronics.Extensions.System.Security", "Source\Padutronics.Extensions.System.Security\Padutronics.Extensions.System.Security.csproj", "{C9204758-9CCC-4B66-AF8A-CEDCC59E8AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9204758-9CCC-4B66-AF8A-CEDCC59E8AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9204758-9CCC-4B66-AF8A-CEDCC59E8AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9204758-9CCC-4B66-AF8A-CEDCC59E8AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9204758-9CCC-4B66-AF8A-CEDCC59E8AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9204758-9CCC-4B66-AF8A-CEDCC59E8AA9} = {791E9744-3D72-4CE8-B7D7-4028875B1068}
+	EndGlobalSection
+EndGlobal
